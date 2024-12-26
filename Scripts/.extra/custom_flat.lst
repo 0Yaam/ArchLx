@@ -1,0 +1,19 @@
+com.github.tchx84.Flatseal                     # Flatseal
+io.github.flattool.Warehouse                   # Warehouse
+
+#  Browser
+com.brave.Browser                              # Brave
+# org.torproject.torbrowser-launcher           # Tor
+
+# Social
+# org.signal.Signal                            # Signal
+# com.discordapp.Discord                       # Discord
+
+#  Productivity
+# md.obsidian.Obsidian                         # Obsidian
+# io.github.alainm23.planify                   # Planify
+
+# Gaming
+# hu.kramo.Cartridges                          # Cartridges
+# com.github.Matoking.protontricks             # ProtonTricks
+# net.davidotek.pupgui2                        # ProtonUp
